@@ -371,8 +371,9 @@ Estabeleça padrões:
 - Bloqueie pushes diretos na main (proteja a branch)
 
 ## Benefícios
-✨ Histórico mais legível e organizado
-🔍 Facilita a busca de mudanças específicas
-📝 Auxilia na geração automática de CHANGELOGs
-🔄 Melhora a compreensão do projeto por novos desenvolvedores
-🚀 Acelera onboarding de novos membros
+
+- ✨ Histórico mais legível e organizado
+- 🔍 Facilita a busca de mudanças específicas
+- 📝 Auxilia na geração automática de CHANGELOGs
+- 🔄 Melhora a compreensão do projeto por novos desenvolvedores
+- 🚀 Acelera onboarding de novos membros
