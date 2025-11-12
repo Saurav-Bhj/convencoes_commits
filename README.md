@@ -4,15 +4,15 @@ Este projeto segue o padrão de **Conventional Commits** para manter um históri
 
 ## ✨ Índice
 - [Formato do Commit](#-formato-do-commit)
-- [Tipos de Commit](#-tipos-de-commit)
-- [Por que usar Commits Semânticos?](#por-que-usar-commits-semânticos)
-- [Escopos](#escopos)
-- [Boas Práticas](#boas-práticas)
-- [Configuração do Git](#configuração-do-git)
-- [Principais Comandos do Git](#principais-comandos-do-git)
+- [Tipos de Commit](#%EF%B8%8F-tipos-de-commit)
+- [Por que usar Commits Semânticos?](#-por-que-usar-commits-semânticos)
+- [Escopos](#-escopos)
+- [Boas Práticas](#-boas-práticas)
+- [Configuração do Git](#-configuração-do-git)
+- [Principais Comandos do Git](#%EF%B8%8F-principais-comandos-do-git)
 - [Checklist do Commit](#checklist-do-commit)
-- [Exemplos de Fluxo Completo](#exemplos-de-fluxo-completo)
-- [Dicas para a Equipe](#dicas-para-a-equipe)
+- [Exemplos de Fluxo Completo](#-exemplos-de-fluxo-completo)
+- [Dicas para a Equipe](#-dicas-para-a-equipe)
 
 ## 📚 Formato do Commit
 
